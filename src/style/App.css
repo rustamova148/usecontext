@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container{
+    width:520px;
+    height:180px;
+    background-color: darkgrey;
+    color:rgb(105, 12, 105);
+    border:2px solid rgb(60, 19, 126);
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 28px;
+    font-size: 19px;
+}
+.text{
+    color:rgb(8, 66, 153)
+}
